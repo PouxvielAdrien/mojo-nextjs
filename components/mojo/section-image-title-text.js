@@ -1,7 +1,7 @@
 import React from "react";
 import ButtonLinkUnderlineAnimated from "../button-link-underline-animated";
 import Image from "next/image";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
@@ -18,8 +18,7 @@ const {imageOrder, textOrder} =  componentOrder(props.imagePosition).order
 
 
                             <div className={`col-md-6 ${imageOrder}`}>
-                                <Image
-                                    priority
+                                <img
                                     src={`/images/${props.img}`}
                                     height={props.height}
                                     width={props.width}
@@ -32,10 +31,9 @@ const {imageOrder, textOrder} =  componentOrder(props.imagePosition).order
                                 <h2 className="mb-3">{props.title}</h2>
                                 <div className="mb-3">{props.text}</div>
 
-                                <ButtonLinkUnderlineAnimated
-                                    title={"Try for free"}
-                                    link={"https://signup.mojohelpdesk.com/signup/register/"}
-                                />
+                                {props.children}
+
+
                             </div>
 
 

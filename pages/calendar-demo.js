@@ -2,7 +2,7 @@ import React from "react";
 import NavbarMojo from "../components/mojo/navbar-mojo";
 import SectionImageTitleText from "../components/mojo/section-image-title-text";
 
-export default function calendarDemo() {
+export default function CalendarDemo() {
     return (
         <>
             <NavbarMojo/>

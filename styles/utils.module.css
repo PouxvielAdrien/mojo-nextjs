@@ -35,7 +35,6 @@
     background-color: #e9ecef;
     height: 5px;
     border-radius: 30px;
-
 }
 
 .circle {
@@ -53,6 +52,17 @@
     /*-webkit-transition: all .3s;*/
     /*-moz-transition: all .3s;*/
     /*transition: all .3s;*/
-
 }
+
+.li{
+    list-style: none;
+    color: black;
+    text-decoration: none;
+}
+
+.a{
+    color: black;
+    text-decoration: none;
+}
+
 

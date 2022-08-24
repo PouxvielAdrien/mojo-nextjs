@@ -8,7 +8,7 @@ import SectionTitleCommentImageVideo2Buttons from "../components/mojo/section-ti
 import Image from "next/image";
 import ButtonLinkUnderlineAnimated from "../components/button-link-underline-animated";
 import SectionImageTitleText from "../components/mojo/section-image-title-text";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default class Home extends React.Component {
     constructor(props){
@@ -22,7 +22,7 @@ export default class Home extends React.Component {
 
     render(){
         return (
-            <div>
+            <>
 
                 <NavbarMojo/>
                 <SectionTitleCommentImageVideo2Buttons/>
@@ -74,10 +74,16 @@ export default class Home extends React.Component {
                         "educational organizations, from small to large, use Mojo Helpdesk to manage their IT, " +
                         "maintenance requests from staff, faculty and more.\n"}
                     imagePosition={"left"} //left or anything because right is default
-                />
+                >
+                    <ButtonLinkUnderlineAnimated
+                        title={"Try for free"}
+                        link={"https://signup.mojohelpdesk.com/signup/register/"}>
+                    </ButtonLinkUnderlineAnimated>
+
+                </SectionImageTitleText>
 
                 <BackHome/>
-            </div>
+            </>
         )
     }
 

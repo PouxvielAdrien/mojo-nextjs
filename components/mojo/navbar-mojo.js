@@ -64,11 +64,11 @@ export default function NavbarMojo() {
                     </ul>
 
                         <ul className="navbar-nav align-items-center">
-                            <Nav.Link href="#Sign in">
+                            <Nav.Link href="https://mojohelpdesk.com/sign-in/">
                                 <button className="btn btn-outline-dark">Sign in</button>
                             </Nav.Link>
 
-                            <Nav.Link href="#Try for free">
+                            <Nav.Link href="https://signup.mojohelpdesk.com/signup/register/90?referer=website">
                                 <button className="btn btn-danger text-uppercase">Try for free</button>
                             </Nav.Link>
 
