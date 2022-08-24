@@ -2,9 +2,9 @@ import Link from "next/link";
 
 export default function BackHome() {
     return (
-        <div >
+        <div>
             <Link href="/">
-                <a>← Back to home</a>
+                ← Back to home
             </Link>
         </div>
     );
