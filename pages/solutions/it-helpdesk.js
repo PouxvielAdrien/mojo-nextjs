@@ -6,6 +6,7 @@ import SectionImageTitleText from "../../components/mojo/section-image-title-tex
 import ButtonLinkUnderlineAnimated from "../../components/button-link-underline-animated";
 import TwoBigButton from "../../components/mojo/two-big-button";
 import FourCheckCircle from "../../components/mojo/four-check-circle";
+import BlueSectionTitleThreeButtons from "../../components/mojo/blue-section-title-three-buttons";
 
 export default function ItHelpdesk() {
     return (
@@ -92,6 +93,24 @@ export default function ItHelpdesk() {
                 </ButtonLinkUnderlineAnimated>
             </SectionImageTitleText>
 
+            <SectionTitleCommentImageVideo2Buttons
+                title={"Easy Mojo helpdesk User Interface"}
+                comment={"Mojo Helpdesk user interface is simple to use while packed with powerful features."}
+            />
+
+
+            <SectionImageTitleText
+                img={'process.png'}
+                height={'450'}
+                width={'450'}
+                title={'Incident Management, Service Fulfilment, Change Management'}
+                text={"Mojo Helpdesk enables IT Service Management (ITSM) processes while keeping everything simple. " +
+                    "The powerful built-in tools combined with the reporting allow organizations to improve their " +
+                    "service quality continually. \n Mojo Helpdesk enables IT teams to deliver IT services in an " +
+                    "organized fashion."}
+            />
+
+            <BlueSectionTitleThreeButtons/>
 
         </>
 

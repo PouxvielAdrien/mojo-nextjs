@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cffe43e-9d14-440f-824e-a78205ce3dcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/mojo/two-big-button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/knowledge-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mojo/blue-section-title-three-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mojo/swiper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/3colums-Icons-title-text.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/four-check-circle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/navbar-mojo.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/navbar-mojo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/navbar-mojo.module.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/components/mojo/section-image-title-text.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/section-image-title-text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/calendar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/calendar-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mojo/section-title-comment-image-video-2-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/section-title-comment-image-video-2-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/solutions/it-helpdesk.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/solutions/it-helpdesk.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/utils.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/utils.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/adrien/WebstormProjects/discount-wheel",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "/home/adrien/Documents/WebStorm-222.3345.108/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/adrien/WebstormProjects/discount-wheel&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/adrien/Documents/WebStorm-222.3345.108/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/styles" />
@@ -72,7 +72,8 @@
       <updated>1661187792820</updated>
       <workItem from="1661187793956" duration="19533000" />
       <workItem from="1661326560524" duration="11302000" />
-      <workItem from="1661342384251" duration="10448000" />
+      <workItem from="1661342384251" duration="11019000" />
+      <workItem from="1661430292719" duration="21806000" />
     </task>
     <servers />
   </component>
