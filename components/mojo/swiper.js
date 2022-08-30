@@ -25,8 +25,7 @@ export default function MySwiperComponent() {
                             <Image src="/images/swiper/spurs.png"
                                    height={63}
                                    width={130}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="nba best team spurs logo "
                             />
                         </SwiperSlide>
 
@@ -34,80 +33,70 @@ export default function MySwiperComponent() {
                             <Image src="/images/swiper/texashospital.png"
                                    height={97}
                                    width={140}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="texas hospital logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/harvard.png"
                                    height={120}
                                    width={124}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="harvard logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/rocketRoute.svg"
                                    height={47}
                                    width={190}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="rocket Route logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/michigan.png"
                                    height={130}
                                    width={130}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="michigan logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/das-keyboard-black.png"
                                    height={28}
                                    width={200}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="das-keyboard logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/abc.svg"
                                    height={77}
                                    width={120}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="abc logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/dcs.png"
                                    height={136}
                                    width={140}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="dcs logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/lacma.png"
                                    height={49}
                                    width={130}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="lacma logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/scotts.png"
                                    height={86}
                                    width={170}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="scotts logo"
                             />
                         </SwiperSlide>
                         <SwiperSlide>
                             <Image src="/images/swiper/sofistadium.png"
                                    height={24}
                                    width={150}
-                                   alt="happy-user"
-                                   className=""
+                                   alt="sofi stadium logo"
                             />
                         </SwiperSlide>
                     </Swiper>

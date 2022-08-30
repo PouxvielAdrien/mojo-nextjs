@@ -3,12 +3,12 @@
     position: relative;
     color: #0087ca;
     text-decoration: none;
+
 }
 
 .link:hover{
     color: #1b486c;
     text-decoration: none;
-    /*Todo: animation underline*/
 }
 
 .link:after {
@@ -38,7 +38,6 @@
 }
 
 .circle {
-
     text-align : center;
     background-color: white;
     height: 40px;
@@ -59,14 +58,41 @@
     color: black;
     text-decoration: none;
 }
-
-.a{
-    color: black;
-    text-decoration: none;
+.li:hover{
+    cursor: pointer;
 }
 
 .blueSection{
     background-color: #2b70a9;
 }
 
+.footerLink {
+    color: #696969;
+    text-decoration: none;
+    font-size: 14px!important;
+}
 
+.footerLink:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.navlink{
+    color: black;
+}
+
+.navlink:hover{
+    color: #1264a3;
+}
+
+.copyrightText{
+    font-weight: 400;
+    font-size: .75rem;
+    color: #454545;
+}
+
+.copyrightLink{
+    font-weight: 400;
+    font-size: .75rem;
+}

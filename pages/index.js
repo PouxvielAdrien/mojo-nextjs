@@ -12,6 +12,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import SwiperComponent from "../components/mojo/swiper";
 import MySwiperComponent from "../components/mojo/swiper";
 import BlueSectionTitleThreeButtons from "../components/mojo/blue-section-title-three-buttons";
+import Footer from "../components/mojo/footer";
 
 
 export default class Home extends React.Component {
@@ -151,7 +152,8 @@ export default class Home extends React.Component {
                 <MySwiperComponent/>
 
                 <BlueSectionTitleThreeButtons/>
-                <BackHome/>
+
+                <Footer/>
             </>
         )
     }
