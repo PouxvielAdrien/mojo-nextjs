@@ -7,7 +7,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 export default function NavbarMojo() {
     return (
-        <Navbar collapseOnSelect expand="lg" bg="white" variant="white" className="border-bottom">
+        <Navbar collapseOnSelect expand="lg" bg="white" variant="white" className="border-bottom fixed-top">
             <Container>
                 <Navbar.Brand href="/" className="pt-2">
                     <img
@@ -32,7 +32,7 @@ export default function NavbarMojo() {
                         <NavDropdown title="Solutions" id="collasible-nav-dropdown">
                             <h7 className="text-secondary px-3">By Department</h7>
                             <NavDropdown.Item href={"/solutions/it-helpdesk"}>IT Service Desk</NavDropdown.Item>
-                            <NavDropdown.Item href="#">Customer Service</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/customer-service">Customer Service</NavDropdown.Item>
                             <NavDropdown.Divider className="m-4"/>
                             <h7 className="text-secondary px-3">By Industry</h7>
                             <NavDropdown.Item href="#">Growing Businesses</NavDropdown.Item>

@@ -13,19 +13,19 @@ export default function BlueSectionTitleThreeButtons(props) {
                     <h2 className="fw-bold">Sign up for Mojo Helpdesk today</h2>
                     <div className="mt-5">
                         <Link href="https://signup.mojohelpdesk.com/signup/register/90?referer=website">
-                            <button className="btn btn-lg btn-danger mr-0 mr-md-2 fw-light text-uppercase me-2">
+                            <button className="btn btn-lg btn-danger fw-light text-uppercase me-2">
                                 Try for free
                             </button>
                         </Link>
 
                         <Link href={"/calendar-demo"}>
-                            <button className="btn btn-lg btn-outline-light mt-2 mt-md-0 fw-light text-uppercase me-2">
+                            <button className="btn btn-lg btn-outline-light fw-light text-uppercase me-2">
                                 Book a Demo
                             </button>
                         </Link>
 
                         <Link href={"/calendar-demo"}>
-                            <button className="btn btn-lg btn-outline-light mt-2 mt-md-0 fw-light text-uppercase">
+                            <button className="btn btn-lg btn-outline-light fw-light text-uppercase">
                                 Attend a webinar
                             </button>
                         </Link>

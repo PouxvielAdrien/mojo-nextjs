@@ -12,8 +12,8 @@ export default function Footer() {
 
     return (
         <section className="pt-5 mt-5">
-            <div className="container">
-                <div className="row border-bottom">
+            <div className="container pb-5">
+                <div className="row pb-5">
 
                     <div className="col-md-3 pl-4 mb-4">
                         <Image src="/images/mojo-star.svg"

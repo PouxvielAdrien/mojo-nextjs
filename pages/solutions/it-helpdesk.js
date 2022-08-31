@@ -7,6 +7,10 @@ import ButtonLinkUnderlineAnimated from "../../components/button-link-underline-
 import TwoBigButton from "../../components/mojo/two-big-button";
 import FourCheckCircle from "../../components/mojo/four-check-circle";
 import BlueSectionTitleThreeButtons from "../../components/mojo/blue-section-title-three-buttons";
+import MySwiperComponent from "../../components/mojo/swiper";
+import SectionCardsLink from "../../components/mojo/section-cards-link";
+import Footer from "../../components/mojo/footer";
+import SectionThreeIcons from "../../components/mojo/section-three-icons";
 
 export default function ItHelpdesk() {
     return (
@@ -77,6 +81,8 @@ export default function ItHelpdesk() {
                 imagePosition={"right"}
             />
 
+            <SectionThreeIcons/>
+
             <SectionImageTitleText
                 img={'assets.png'}
                 height={'304'}
@@ -110,7 +116,39 @@ export default function ItHelpdesk() {
                     "organized fashion."}
             />
 
+            <MySwiperComponent/>
             <BlueSectionTitleThreeButtons/>
+            <SectionCardsLink
+                title={"Resources For The Services Desk"}
+                cards={[
+                    {
+                        link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                        img:"tips.png",
+                        height:170,
+                        width:267,
+                        alt:"tips",
+                        body:"Practical Tips for Help Desk Agents"
+                    },
+                    {
+                        link:"/ressources/sona-dermatology",
+                        img:"undraw_analysis.png",
+                        height:170,
+                        width:267,
+                        alt:"undraw_analysis",
+                        body:"Case Study: Raksha Technologies uses Mojo Helpdesk to improve customer confidence"
+                    },
+                    {
+                        link:"/ressources/11-points-helpdesk",
+                        img:"11-points-hd.jpg",
+                        height:170,
+                        width:267,
+                        alt:"11-points-hd",
+                        body:"FREE GUIDE: Why Every Help Desk Needs These 11 Functions"
+                    },
+                ]}
+            />
+
+            <Footer/>
 
         </>
 

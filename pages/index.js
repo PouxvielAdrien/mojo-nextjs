@@ -209,11 +209,7 @@ export default class Home extends React.Component {
                             alt:"burnout",
                             body:"On-demand Webinar: How to save hundreds of thousands of dollars with a Self-Service Knowledge Base"
                         },
-
-
-
                     ]}
-
                 />
 
                 <Footer/>
