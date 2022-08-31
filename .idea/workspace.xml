@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cffe43e-9d14-440f-824e-a78205ce3dcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/mojo/section-cards-link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/ressources/11-points-helpdesk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/ressources/sona-dermatology.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/blue-section-title-three-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/blue-section-title-three-buttons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/section-image-title-text.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/section-image-title-text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/section-title-comment-image-video-2-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/section-title-comment-image-video-2-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mojo/section-cards-link.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/mojo/section-cards-link.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,7 @@
       <workItem from="1661326560524" duration="11302000" />
       <workItem from="1661342384251" duration="11019000" />
       <workItem from="1661430292719" duration="28965000" />
-      <workItem from="1661932684459" duration="10090000" />
+      <workItem from="1661932684459" duration="18207000" />
     </task>
     <servers />
   </component>

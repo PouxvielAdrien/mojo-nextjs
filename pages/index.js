@@ -160,53 +160,57 @@ export default class Home extends React.Component {
                         {
                             link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
                             img:"burnout.png",
-                            height:168,
-                            width:265,
+                            height:170,
+                            width:267,
                             alt:"burnout",
                             body:"How to Keep Help Desk Agents from Burning Out"
                         },
                         {
-                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            link:"/ressources/sona-dermatology",
                             img:"undraw_analysis.png",
-                            height:168,
-                            width:265,
+                            height:170,
+                            width:267,
                             alt:"undraw_analysis",
                             body:"Case study: Austin Community College Case & Mojo Helpdesk Study"
                         },
                         {
-                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
-                            img:"burnout.png",
-                            height:168,
-                            width:265,
-                            alt:"burnout",
-                            body:"How to Keep Help Desk Agents from Burning Out"
+                            link:"/ressources/11-points-helpdesk",
+                            img:"11-points-hd.jpg",
+                            height:170,
+                            width:267,
+                            alt:"11-points-hd",
+                            body:"FREE GUIDE: Why Every Help Desk Needs These 11 Functions"
                         },
 
                         {
+                            // Todo: real link
                             link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
-                            img:"burnout.png",
-                            height:168,
-                            width:265,
-                            alt:"burnout",
-                            body:"How to Keep Help Desk Agents from Burning Out"
+                            img:"is_mojo_right.png",
+                            height:170,
+                            width:267,
+                            alt:"is_mojo_right",
+                            body:"Upcoming Webinar: Is Mojo Helpdesk right for your organization?"
                         },
                         {
+                            // Todo: real link
                             link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
-                            img:"burnout.png",
-                            height:168,
-                            width:265,
+                            img:"cyber-secu.png",
+                            height:170,
+                            width:267,
+                            alt:"cyber-secu",
+                            body:"On-demand Webinar: Cybersecurity for the Rest of Us"
+                        },
+                        {
+                            // Todo: real link
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"save-hundred-of-thousand.png",
+                            height:170,
+                            width:267,
                             alt:"burnout",
-                            body:"How to Keep Help Desk Agents from Burning Out"
+                            body:"On-demand Webinar: How to save hundreds of thousands of dollars with a Self-Service Knowledge Base"
                         },
 
-                        {
-                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
-                            img:"burnout.png",
-                            height:168,
-                            width:265,
-                            alt:"burnout",
-                            body:"How to Keep Help Desk Agents from Burning Out"
-                        },
+
 
                     ]}
 
