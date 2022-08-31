@@ -6,7 +6,7 @@ import utils from "../../styles/utils.module.css";
 export default function BlueSectionTitleThreeButtons(props) {
 
     return (
-        <section className={  `pt-5 pb-5 border-bottom   ${utils.blueSection}`}>
+        <section className={`pt-5 pb-5 border-bottom  ${utils.blueSection}`}>
             <div className="container">
                 <div className="text-center text-white">
 

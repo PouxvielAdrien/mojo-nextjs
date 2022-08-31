@@ -1,6 +1,4 @@
 import YoutubeVideo from "../youtube";
-import Link from "next/link";
-import utils from "../../styles/utils.module.css";
 import React from "react";
 import ButtonLinkUnderlineAnimated from "../button-link-underline-animated";
 

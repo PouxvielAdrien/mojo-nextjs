@@ -29,3 +29,14 @@ img {
 .swiper-wrapper{
     align-items: center;
 }
+
+.card {
+    transition: transform .2s;
+    color: #2b70a9;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    color: #1b486c;
+    cursor: pointer;
+}

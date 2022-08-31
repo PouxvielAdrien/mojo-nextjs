@@ -13,6 +13,7 @@ import SwiperComponent from "../components/mojo/swiper";
 import MySwiperComponent from "../components/mojo/swiper";
 import BlueSectionTitleThreeButtons from "../components/mojo/blue-section-title-three-buttons";
 import Footer from "../components/mojo/footer";
+import SectionCardsLink from "../components/mojo/section-cards-link";
 
 
 export default class Home extends React.Component {
@@ -152,6 +153,64 @@ export default class Home extends React.Component {
                 <MySwiperComponent/>
 
                 <BlueSectionTitleThreeButtons/>
+
+                <SectionCardsLink
+                    title={"What's New At Mojo"}
+                    cards={[
+                        {
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"burnout.png",
+                            height:168,
+                            width:265,
+                            alt:"burnout",
+                            body:"How to Keep Help Desk Agents from Burning Out"
+                        },
+                        {
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"undraw_analysis.png",
+                            height:168,
+                            width:265,
+                            alt:"undraw_analysis",
+                            body:"Case study: Austin Community College Case & Mojo Helpdesk Study"
+                        },
+                        {
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"burnout.png",
+                            height:168,
+                            width:265,
+                            alt:"burnout",
+                            body:"How to Keep Help Desk Agents from Burning Out"
+                        },
+
+                        {
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"burnout.png",
+                            height:168,
+                            width:265,
+                            alt:"burnout",
+                            body:"How to Keep Help Desk Agents from Burning Out"
+                        },
+                        {
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"burnout.png",
+                            height:168,
+                            width:265,
+                            alt:"burnout",
+                            body:"How to Keep Help Desk Agents from Burning Out"
+                        },
+
+                        {
+                            link:"https://www.mojohelpdesk.com/blog/2020/06/how-to-keep-help-desk-agents-from-burning-out/",
+                            img:"burnout.png",
+                            height:168,
+                            width:265,
+                            alt:"burnout",
+                            body:"How to Keep Help Desk Agents from Burning Out"
+                        },
+
+                    ]}
+
+                />
 
                 <Footer/>
             </>

@@ -11,8 +11,6 @@ const {imageOrder, textOrder} =  componentOrder(props.imagePosition).order
             <section className="pt-5 mt-5  pb-5 border-bottom">
                 <div className="container">
                     <div className="row align-items-center">
-
-
                             <div className={`col-md-6 ${imageOrder}`}>
                                 <img
                                     src={`/images/${props.img}`}
