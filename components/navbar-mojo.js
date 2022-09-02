@@ -35,10 +35,10 @@ export default function NavbarMojo() {
                             <NavDropdown.Item href="/solutions/customer-service">Customer Service</NavDropdown.Item>
                             <NavDropdown.Divider className="m-4"/>
                             <h7 className="text-secondary px-3">By Industry</h7>
-                            <NavDropdown.Item href="#">Growing Businesses</NavDropdown.Item>
-                            <NavDropdown.Item href="#">E-commerce</NavDropdown.Item>
-                            <NavDropdown.Item href="#">Education</NavDropdown.Item>
-                            <NavDropdown.Item href="#">Healthcare</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/growing-businesses">Growing Businesses</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/ecommerce">E-commerce</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/education">Education</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/healthcare">Healthcare</NavDropdown.Item>
                         </NavDropdown>
 
 

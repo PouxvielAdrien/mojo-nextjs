@@ -1,6 +1,6 @@
 import React from "react";
-import NavbarMojo from "../components/mojo/navbar-mojo";
-import SectionImageTitleText from "../components/mojo/section-image-title-text";
+import NavbarMojo from "../components/navbar-mojo";
+import SectionImageTitleText from "../components/section/section-image-title-text";
 
 export default function KnowledgeBase() {
     return (

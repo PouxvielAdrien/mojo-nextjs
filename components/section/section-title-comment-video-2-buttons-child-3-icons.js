@@ -3,7 +3,7 @@ import React from "react";
 import ButtonLinkUnderlineAnimated from "../button-link-underline-animated";
 
 
-export default function SectionTitleCommentImageVideo2Buttons (props) {
+export default function SectionTitleCommentVideo2ButtonsChild3Icons (props) {
 
 
         let videoId="T0lgE9NcTAc"

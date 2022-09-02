@@ -7,7 +7,7 @@ export default function BlueSectionTitleThreeButtons(props) {
 
     return (
         <section className={`pt-5 pb-5 border-bottom  ${utils.blueSection}`}>
-            <div className="container">
+            <div className="container pt-5 pb-5">
                 <div className="text-center text-white">
 
                     <h2 className="fw-bold">Sign up for Mojo Helpdesk today</h2>

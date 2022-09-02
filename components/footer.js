@@ -2,7 +2,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Image from "next/image";
 import Link from "next/link";
-import utils from "../../styles/utils.module.css";
+import utils from "../styles/utils.module.css";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
@@ -28,45 +28,45 @@ export default function Footer() {
                         <div className="row w-100">
                             <div className="col-md-4 col-sm-6">
                                 <strong className="text-uppercase d-block mb-3">Compliance</strong>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Privacy &amp; GDPR</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Terms of Service</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>HIPAA</p>
                                 </Link>
                             </div>
 
                             <div className="col-md-4 col-sm-6">
                                 <strong className="text-uppercase d-block mb-3">Resources</strong>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Blog</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Webinars</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>How-To Videos</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Tips for Help Desk Agents</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Partner Program</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Jobs</p>
                                 </Link>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Developers</p>
                                 </Link>
                             </div>
 
                             <div className="col-md-4 col-sm-6">
                                 <strong className="text-uppercase d-block mb-3">Developers</strong>
-                                <Link href="/" className="d-block mb-3">
+                                <Link href="/pages" className="d-block mb-3">
                                     <p className={utils.footerLink}>Developer API</p>
                                 </Link>
                             </div>

@@ -1,12 +1,12 @@
 import Link from "next/link";
 import React from "react";
-import SectionTitleCommentImageVideo2Buttons from "../../components/mojo/section-title-comment-image-video-2-buttons";
-import NavbarMojo from "../../components/mojo/navbar-mojo";
-import SectionImageTitleText from "../../components/mojo/section-image-title-text";
+import SectionTitleCommentVideo2ButtonsChild3Icons from "../../components/section/section-title-comment-video-2-buttons-child-3-icons";
+import NavbarMojo from "../../components/navbar-mojo";
+import SectionImageTitleText from "../../components/section/section-image-title-text";
 import ButtonLinkUnderlineAnimated from "../../components/button-link-underline-animated";
-import TwoBigButton from "../../components/mojo/two-big-button";
-import FourCheckCircle from "../../components/mojo/four-check-circle";
-import BlueSectionTitleThreeButtons from "../../components/mojo/blue-section-title-three-buttons";
+import TwoBigButton from "../../components/two-big-button";
+import FourCheckCircle from "../../components/four-check-circle";
+import BlueSectionTitleThreeButtons from "../../components/section/blue-section-title-three-buttons";
 
 export default function SonaDermatology() {
     return (

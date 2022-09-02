@@ -1,16 +1,17 @@
 import Link from "next/link";
 import React from "react";
-import SectionTitleCommentImageVideo2Buttons from "../../components/mojo/section-title-comment-image-video-2-buttons";
-import NavbarMojo from "../../components/mojo/navbar-mojo";
-import SectionImageTitleText from "../../components/mojo/section-image-title-text";
+import SectionTitleCommentVideo2ButtonsChild3Icons from "../../components/section/section-title-comment-video-2-buttons-child-3-icons";
+import NavbarMojo from "../../components/navbar-mojo";
+import SectionImageTitleText from "../../components/section/section-image-title-text";
 import ButtonLinkUnderlineAnimated from "../../components/button-link-underline-animated";
-import TwoBigButton from "../../components/mojo/two-big-button";
-import FourCheckCircle from "../../components/mojo/four-check-circle";
-import BlueSectionTitleThreeButtons from "../../components/mojo/blue-section-title-three-buttons";
-import MySwiperComponent from "../../components/mojo/swiper";
-import SectionCardsLink from "../../components/mojo/section-cards-link";
-import Footer from "../../components/mojo/footer";
-import SectionThreeIcons from "../../components/mojo/section-three-icons";
+import TwoBigButton from "../../components/two-big-button";
+import FourCheckCircle from "../../components/four-check-circle";
+import BlueSectionTitleThreeButtons from "../../components/section/blue-section-title-three-buttons";
+import MySwiperComponent from "../../components/swiper";
+import SectionCardsLink from "../../components/section/section-cards-link";
+import Footer from "../../components/footer";
+import SectionThreeIcons from "../../components/section/section-three-icons";
+import SectionPercentQuote from "../../components/section/section-percent-quote";
 
 export default function CustomerService() {
     return (
@@ -34,7 +35,7 @@ export default function CustomerService() {
             </SectionImageTitleText>
 
             <SectionImageTitleText
-                img={'mojo-all-in-one.png'}
+                img={'section-all-in-one.png'}
                 height={'366'}
                 width={'540'}
                 title={'Resolve Customers Issues Fast With Mojo Helpdesk'}
@@ -62,7 +63,18 @@ export default function CustomerService() {
                 </ButtonLinkUnderlineAnimated>
             </SectionImageTitleText>
 
-            {/*Todo: %Component*/}
+            <SectionPercentQuote
+                percent={25}
+                subtitle={"reduction of incoming requests"}
+                quote={'"Mojo Helpdesk knowledge base allows customers to help themselves, ' +
+                    'cuttingdown on incoming tickets and saving considerable tech support time."'}
+                author={"Philippe Herve, VP Solutions at Sparkcognition"}
+            >
+                <ButtonLinkUnderlineAnimated
+                    title={"Try for free"}
+                    link={"https://signup.mojohelpdesk.com/signup/register/"}>
+                </ButtonLinkUnderlineAnimated>
+            </SectionPercentQuote>
 
             <SectionImageTitleText
                 img={'automation_hub.jpg'}

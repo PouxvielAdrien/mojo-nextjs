@@ -3,12 +3,12 @@
     position: relative;
     color: #0087ca;
     text-decoration: none;
-
 }
 
 .link:hover{
     color: #1b486c;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .link:after {
@@ -95,4 +95,11 @@
 .copyrightLink{
     font-weight: 400;
     font-size: .75rem;
+}
+
+.percentQuote{
+    font-style: italic;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    font-family: Helvetica,Arial,sans-serif;
 }
