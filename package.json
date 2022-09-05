@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -15,7 +15,8 @@
     "react": "18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "18.2.0",
-    "react-youtube": "^9.0.3"
+    "react-youtube": "^9.0.3",
+    "swiper": "^8.3.2"
   },
   "devDependencies": {
     "eslint": "8.22.0",

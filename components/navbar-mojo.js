@@ -7,7 +7,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 export default function NavbarMojo() {
     return (
-        <Navbar collapseOnSelect expand="lg" bg="white" variant="white" className="border-bottom">
+        <Navbar collapseOnSelect expand="lg" bg="white" variant="white" className="border-bottom fixed-top">
             <Container>
                 <Navbar.Brand href="/" className="pt-2">
                     <img
@@ -32,13 +32,13 @@ export default function NavbarMojo() {
                         <NavDropdown title="Solutions" id="collasible-nav-dropdown">
                             <h7 className="text-secondary px-3">By Department</h7>
                             <NavDropdown.Item href={"/solutions/it-helpdesk"}>IT Service Desk</NavDropdown.Item>
-                            <NavDropdown.Item href="#">Customer Service</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/customer-service">Customer Service</NavDropdown.Item>
                             <NavDropdown.Divider className="m-4"/>
                             <h7 className="text-secondary px-3">By Industry</h7>
-                            <NavDropdown.Item href="#">Growing Businesses</NavDropdown.Item>
-                            <NavDropdown.Item href="#">E-commerce</NavDropdown.Item>
-                            <NavDropdown.Item href="#">Education</NavDropdown.Item>
-                            <NavDropdown.Item href="#">Healthcare</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/growing-businesses">Growing Businesses</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/ecommerce">E-commerce</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/education">Education</NavDropdown.Item>
+                            <NavDropdown.Item href="/solutions/healthcare">Healthcare</NavDropdown.Item>
                         </NavDropdown>
 
 
@@ -51,7 +51,7 @@ export default function NavbarMojo() {
                             <NavDropdown.Item href="#">Synapses Lab</NavDropdown.Item>
                             <NavDropdown.Item href="#">Simplain Software Solutions</NavDropdown.Item>
                             <NavDropdown.Item href="">Genesis Healthcare</NavDropdown.Item>
-                            <NavDropdown.Item href="">Sona Dermatology & MedSpa</NavDropdown.Item>
+                            <NavDropdown.Item href="/ressources/sona-dermatology">Sona Dermatology & MedSpa</NavDropdown.Item>
                             <NavDropdown.Divider className="m-4"/>
                             <h7 className="text-secondary px-3">Free Guides & Assessments</h7>
                             <NavDropdown.Item href="#">How to evaluate an IT helpdesk software</NavDropdown.Item>
@@ -64,11 +64,11 @@ export default function NavbarMojo() {
                     </ul>
 
                         <ul className="navbar-nav align-items-center">
-                            <Nav.Link href="#Sign in">
+                            <Nav.Link href="https://mojohelpdesk.com/sign-in/">
                                 <button className="btn btn-outline-dark">Sign in</button>
                             </Nav.Link>
 
-                            <Nav.Link href="#Try for free">
+                            <Nav.Link href="https://signup.mojohelpdesk.com/signup/register/90?referer=website">
                                 <button className="btn btn-danger text-uppercase">Try for free</button>
                             </Nav.Link>
 
