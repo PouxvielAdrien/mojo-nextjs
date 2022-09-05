@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cffe43e-9d14-440f-824e-a78205ce3dcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/case-study.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/navbar-mojo.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbar-mojo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/section/section-cards-link.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/section-cards-link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ressources/sona-dermatology.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ressources/sona-dermatology.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/solutions/customer-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/solutions/customer-service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/solutions/growing-businesses.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/solutions/growing-businesses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/utils.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/utils.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ressources/11-points-helpdesk.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +75,7 @@
       <workItem from="1661932684459" duration="21885000" />
       <workItem from="1662022886961" duration="6557000" />
       <workItem from="1662108336304" duration="17449000" />
+      <workItem from="1662365980968" duration="3593000" />
     </task>
     <servers />
   </component>
