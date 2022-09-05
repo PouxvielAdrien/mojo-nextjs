@@ -51,7 +51,7 @@ export default function NavbarMojo() {
                             <NavDropdown.Item href="#">Synapses Lab</NavDropdown.Item>
                             <NavDropdown.Item href="#">Simplain Software Solutions</NavDropdown.Item>
                             <NavDropdown.Item href="">Genesis Healthcare</NavDropdown.Item>
-                            <NavDropdown.Item href="">Sona Dermatology & MedSpa</NavDropdown.Item>
+                            <NavDropdown.Item href="/ressources/sona-dermatology">Sona Dermatology & MedSpa</NavDropdown.Item>
                             <NavDropdown.Divider className="m-4"/>
                             <h7 className="text-secondary px-3">Free Guides & Assessments</h7>
                             <NavDropdown.Item href="#">How to evaluate an IT helpdesk software</NavDropdown.Item>

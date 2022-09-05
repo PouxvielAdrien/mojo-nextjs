@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import {Card, CardGroup, Col, Row} from "react-bootstrap";
+import utils from '/styles/utils.module.css'
 
 
 /**
@@ -27,7 +28,7 @@ export default function SectionCardsLink (props) {
         cardsResults.push (
             <div className={`col-12 col-sm-10 col-md-6 col-lg-3 p-3 mx-lg-3 d-flex` } >
                 <Link href={cards.link}>
-                    <div className="card shadow d-flex rounded p-2">
+                        <div className={`card ${utils.mojoCard} shadow d-flex rounded p-2`}>
                         <Image
                             src={`/images/cards/${cards.img}`}
                             height={cards.height}

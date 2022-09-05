@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cffe43e-9d14-440f-824e-a78205ce3dcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/section/section-percent-quote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/section/section-title-comment-image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/three-icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/solutions/ecommerce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/solutions/education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/solutions/growing-businesses.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/solutions/healthcare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/case-study.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/blue-section-title-three-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/blue-section-title-three-buttons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/four-check-circle.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/four-check-circle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/navbar-mojo.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbar-mojo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/section-cards-link.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/section-cards-link.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/section-image-title-text.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/section-image-title-text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/section-three-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/section-three-icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/section-title-comment-image-video-2-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/section-title-comment-video-2-buttons-child-3-icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/swiper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/mojo/two-big-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/two-big-button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/calendar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/calendar-demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/knowledge-base.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/knowledge-base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/navbar-mojo.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/navbar-mojo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/section/section-cards-link.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/section/section-cards-link.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/ressources/sona-dermatology.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ressources/sona-dermatology.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/solutions/customer-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/solutions/customer-service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/solutions/it-helpdesk.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/solutions/it-helpdesk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/solutions/growing-businesses.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/solutions/growing-businesses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/utils.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/utils.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +79,7 @@
       <workItem from="1661430292719" duration="28965000" />
       <workItem from="1661932684459" duration="21885000" />
       <workItem from="1662022886961" duration="6557000" />
-      <workItem from="1662108336304" duration="7577000" />
+      <workItem from="1662108336304" duration="17449000" />
     </task>
     <servers />
   </component>

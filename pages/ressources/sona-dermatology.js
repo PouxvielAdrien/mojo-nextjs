@@ -7,6 +7,7 @@ import ButtonLinkUnderlineAnimated from "../../components/button-link-underline-
 import TwoBigButton from "../../components/two-big-button";
 import FourCheckCircle from "../../components/four-check-circle";
 import BlueSectionTitleThreeButtons from "../../components/section/blue-section-title-three-buttons";
+import CaseStudy from "../../components/case-study";
 
 export default function SonaDermatology() {
     return (
@@ -22,13 +23,11 @@ export default function SonaDermatology() {
                     "request management, knowledge base, asset management, SLA and more..."}
                 imagePosition={"right"} //left or anything because right is default
             >
-
                 <TwoBigButton/>
-
             </SectionImageTitleText>
 
 
+            <CaseStudy/>
         </>
-
     );
 }

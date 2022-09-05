@@ -19,7 +19,7 @@ export default function GrowingBusinesses() {
             <NavbarMojo/>
 
             <SectionImageTitleText
-                img={'section-all-in-one.png'}
+                img={'mojo-all-in-one.png'}
                 height={'360'}
                 width={'540'}
                 title={'Solve Employee And Customer Problems Fast'}

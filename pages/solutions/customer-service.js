@@ -35,7 +35,7 @@ export default function CustomerService() {
             </SectionImageTitleText>
 
             <SectionImageTitleText
-                img={'section-all-in-one.png'}
+                img={'mojo-all-in-one.png'}
                 height={'366'}
                 width={'540'}
                 title={'Resolve Customers Issues Fast With Mojo Helpdesk'}
